@@ -1,0 +1,6 @@
+{
+    "name": "See through",
+    "description": "Since energy is not solid you are very translucent",
+    "type": "origins:model_color",
+    "alpha": 0.3
+}

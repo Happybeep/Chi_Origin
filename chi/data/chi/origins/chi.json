@@ -1,0 +1,42 @@
+{
+    "name": "chi",
+    "description": "A being of pure energy maintaining a balance between good and evil",
+    "powers": [
+        "chi:translucent",
+        "chi:diamond_bad",
+        "chi:shieldnt",
+        "chi:no_hunger",
+        "chi:3armor",
+        "chi:melee_damage",
+        "chi:ranged_damage",
+        "chi:fire_damage",
+        "chi:fall_damage",
+        "chi:drowning",
+        "chi:magic_damage",
+        "chi:lightning_damage",
+        "chi:wither_damage",
+        "chi:enderman_bad",
+        "chi:no_potions",
+        "chi:magical_body",
+        "chi:energy_bars",
+        "chi:death_bar",
+        "chi:life_bar",
+        "chi:death_increase",
+        "chi:life_increase1",
+        "chi:life_increase2",
+        "chi:respawn_death",
+        "chi:respawn_life",
+        "chi:death_ability",
+        "chi:life_ability",
+        "chi:",
+        "chi:",
+        "chi:",
+        "chi:"
+    ],
+    "icon": {
+        "item": "minecraft:blue_stained_glass"
+    },
+    "order": 1,
+    "impact": 3,
+    "loading_priority": 1
+}

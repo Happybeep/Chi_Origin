@@ -1,0 +1,26 @@
+{
+    "name": "Connected to Nature",
+    "description": "You must stay connected to the elements meaning you can only wear 3 pieces of armor at any given time",
+    "type": "origins:conditioned_restrict_armor",
+    "head": {
+        "type": "origins:empty",
+        "comparison": "=",
+        "compare_to": true
+    },
+    "chest": {
+        "type": "origins:empty",
+        "comparison": "=",
+        "compare_to": true
+    },
+    "legs": {
+        "type": "origins:empty",
+        "comparison": "=",
+        "compare_to": true
+    },
+    "feet": {
+        "type": "origins:empty",
+        "comparison": "=",
+        "compare_to": true
+    },
+    "tick_rate": 20
+}

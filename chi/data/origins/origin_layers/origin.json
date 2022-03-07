@@ -1,0 +1,9 @@
+{
+    "order": 1,
+    "origins": [
+        "chi:chi"
+    ],
+    "enabled": true,
+    "name": "chi",
+    "allow_random": true
+}

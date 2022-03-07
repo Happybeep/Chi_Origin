@@ -1,0 +1,8 @@
+{
+    "name": "Potions? what are those",
+    "description": "potions are only for physical beings you cannot use them",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+		"type": "origins:potion"
+	}
+}

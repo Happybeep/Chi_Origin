@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "description": "",
+    "type":"origins:multiple",
+	"negate":{
+		"type":"origins:modify_exhaustion",
+		"modifier":{
+			"operation": "multiply_base",
+        	"value": -1
+		}
+	},
+    "regen":{
+		"type": "origins:disable_regen"
+	},
+    "hidden":true
+}

@@ -1,0 +1,11 @@
+{
+    "name": "shieldnt",
+    "description": "you cannot conjure hands solid enough to weild shields",
+    "type": "origins:prevent_item_use",
+    "item_condition": {
+		"type": "origins:ingredient",
+		"ingredient": {
+			"tag": "chi:no_use"
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "description": "",
+    "type": "origins:multiple",
+    "active": {
+        "type": "origins:active_self",
+		"cooldown": 5,
+		"key": {
+			"key": "key.origins.primary_active"
+		}
+    },
+    "hidden": true
+}
